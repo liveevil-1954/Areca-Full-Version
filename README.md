@@ -237,4 +237,4 @@ This repository serves as the official landing page for Areca. The software is d
 **Get the most recent version of Areca today!**
 
 ---
-**Last updated:** 2026-10-25 14:38:18 UTC
+**Last updated:** 2026-10-25 17:56:12 UTC
